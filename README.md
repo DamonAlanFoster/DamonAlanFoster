@@ -11,7 +11,7 @@ I'm an experienced front-end developer based in the UK who's currently learning 
 - Cross-Browser Compatibility
 - Git
 - C# /.NET
-- Umrbaco
+- Umbraco
 
 ### My Learning Journey:
 
