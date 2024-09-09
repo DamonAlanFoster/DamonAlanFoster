@@ -1,26 +1,3 @@
 ## Hello there, I'm Damon! 👋
 
-I'm an experienced front-end developer based in the UK who's currently learning C# and .NET. I have over 8 years of experience in building responsive websites and applications using various front-end technologies.
-
-### My Skills and Experience:
-
-- HTML
-- CSS / SASS/SCSS
-- JavaScript / TypeScript
-- Responsive Design
-- Cross-Browser Compatibility
-- Git
-- C# /.NET
-- Umbraco
-
-### My Learning Journey:
-
-I'm currently using various online resources to learn C# and .NET, including Udemy and books. Additionally, I'm using online tutorials to supplement my learning, and sharing my progress and projects through my github repos.
-
-### My Github Repository:
-
-My Github repository will showcase my progress and projects as I work on them, so feel free to check it out to see what I'm currently working on.
-
-### My Github Stats:
-
-![github-readme-stats](https://github-readme-stats.vercel.app/api?username=DamonAlanFoster&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark)
+I'm an experienced Web Developer based in the UK.
